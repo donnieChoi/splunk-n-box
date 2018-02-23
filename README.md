@@ -10,7 +10,7 @@
 
  :link: In-depth docker video: https://youtu.be/rfjmeakbeH8?t=0s<br>
 
-
+[![Sourcegraph](https://sourcegraph.com/ghttps://github.com/mhassan2/splunk-n-box/-/badge.svg ](https://sourcegraph.com/https://github.com/mhassan2/splunk-n-box?badge)
 
 ## Introduction:
 
