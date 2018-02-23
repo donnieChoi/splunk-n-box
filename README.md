@@ -12,7 +12,6 @@
 
 [![Sourcegraph](https://sourcegraph.com/github.com/mhassan2/splunk-n-box/-/badge.svg)](https://sourcegraph.com/github.com/mhassan2/splunk-n-box?badge)
 
-[![Sourcegraph](https://sourcegraph.com/github.com/gorilla/mux/-/badge.svg)](https://sourcegraph.com/github.com/gorilla/mux?badge)
 
 ## Introduction:
 
